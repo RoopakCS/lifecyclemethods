@@ -94,23 +94,23 @@ public class MainActivity extends AppCompatActivity {
 
 ### onCreate()
 
-![alt text](../images/Screenshot_20260427_164048.png)
+![alt text](./images/Screenshot_20260427_164048.png)
 
 ### onStart()
 
-![alt text](../images/Screenshot_20260427_163951.png)
+![alt text](./images/Screenshot_20260427_163951.png)
 
 ### onRestart()
 
-![alt text](../images/Screenshot_20260427_164946.png)
+![alt text](./images/Screenshot_20260427_164946.png)
 
 ### onPause()
 
-![alt text](../images/Screenshot_20260427_163946.png)
+![alt text](./images/Screenshot_20260427_163946.png)
 
 ### onResume()
 
-![alt text](../images/Screenshot_20260427_163912.png)
+![alt text](./images/Screenshot_20260427_163912.png)
 
 ## RESULT
 
